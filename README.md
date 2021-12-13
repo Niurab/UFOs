@@ -61,7 +61,7 @@ The table is updated to reflect when a shape is given. The available shapes incl
 
 All filter parameters such as date, city, state, country and shape can be filtered simultaneously. See figure 5 below.
 
-![Filters](https://user-images.githubusercontent.com/91093413/145888263-f88c9728-ce9e-4e4e-b5b5-8ad43e48e837.png)
+![All parameters](https://user-images.githubusercontent.com/91093413/145889775-c71a79bb-cdce-4a63-8534-2798f0be2cd4.png)
 
 Figure 5: Filter all parameters
 
