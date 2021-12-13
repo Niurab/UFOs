@@ -9,7 +9,7 @@ In this module, we utilized Javascript, HTML, and CSS to build an interactive we
 
 ## Results:
 
-Index Page
+### Index Page
 
 The first page is the index page and it is the where user can re-initialize the page clicking on the navbar (UFO Sightings) at the very top. See figure 1 below.
 
@@ -18,7 +18,7 @@ The first page is the index page and it is the where user can re-initialize the 
 Figure 1: Navbar
 
 
-Header and paragraph
+### Header and paragraph
 
 The section with the title "The Truth is Out There" uses Jumbotron to give the section its bold and appealing outcome and it's followed by the paragraph of what Ufologists know about UFO sightings. See figures 2 and 3 below.
 
@@ -32,7 +32,7 @@ Figure 2: Header using Jumbotron
 Figure 3: Paragraphs
 
 
-Filter by date
+### Filter by date
 
 When a user input the desire date, this is dectected and the table by the left of the screen is updated to capture this input. See fifure 4 below.
 
@@ -41,23 +41,23 @@ When a user input the desire date, this is dectected and the table by the left o
 Figure 4: Filter date
 
 
-Filter by city
+### Filter by city
 
 When the user enters the city, the table is updated accordingly after dectecting the input.
 
-Filter by state
+### Filter by state
 
 The third outcome that could reflect on the table is state when a state is given as input.
 
-Filter by country
+### Filter by country
 
 The table is updated accordingly as well when a desired country is entered as input.
 
-Filter by shape
+### Filter by shape
 
 The table is updated to reflect when a shape is given. The available shapes include circle, light, triangle, among others,
 
-Filter by all parameters
+### Filter by all parameters
 
 All filter parameters such as date, city, state, country and shape can be filtered simultaneously. See figure 5 below.
 
