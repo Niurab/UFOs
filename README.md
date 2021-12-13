@@ -8,27 +8,36 @@
 In this module, we utilized Javascript, HTML, and CSS to build an interactive webpage on UFO sightings. The webpage accepts inputs from users and display the outcome in a table. The results are filtered based on several inputs specified such as date, city, state, country and shape and the output shown using these criteria as well as the duration and comments on the UFO sightings.
 
 ## Results:
+
 Index Page
 
 The first page is the index page and it is the where user can re-initialize the page clicking on the navbar (UFO Sightings) at the very top. See figure 1 below.
-UFO sightings
+
+![UFO sightings](https://user-images.githubusercontent.com/91093413/145888415-e746de9a-6880-4871-afeb-f9ab134cb2fd.png)
 
 Figure 1: Navbar
 
 Header and paragraph
 
 The section with the title "The Truth is Out There" uses Jumbotron to give the section its bold and appealing outcome and it's followed by the paragraph of what Ufologists know about UFO sightings. See figures 2 and 3 below.
-The truth is out there
+
+![The truth is out there](https://user-images.githubusercontent.com/91093413/145888479-d0c210dd-4ec9-437f-836c-e84e3068f6e0.png)
 
 Figure 2: Header using Jumbotron
 
-Paragraph
+![Paragraph](https://user-images.githubusercontent.com/91093413/145888513-5babfe6a-3f15-479a-bc2c-6f286516a9cd.png)
 
 Figure 3: Paragraphs
 
 Filter by date
 
-When a user input the desire date, this is dectected and the table by the left of the screen is updated to capture this input.
+When a user input the desire date, this is dectected and the table by the left of the screen is updated to capture this input. See fifure 4 below.
+
+![Filter date](https://user-images.githubusercontent.com/91093413/145888711-3fee30f5-fd5d-4b1d-9a83-35cfbf07fdde.png)
+
+Figure 4: Filter date
+
+
 Filter by city
 
 When the user enters the city, the table is updated accordingly after dectecting the input.
@@ -43,10 +52,11 @@ Filter by shape
 The table is updated to reflect when a shape is given. The available shapes include circle, light, triangle, among others,
 Filter by all parameters
 
-All filter parameters such as date, city, state, country and shape can be filtered simultaneously. See figure 4 below.
-Filters
+All filter parameters such as date, city, state, country and shape can be filtered simultaneously. See figure 5 below.
 
-Figure 4: Filter all parameters
+![Filters](https://user-images.githubusercontent.com/91093413/145888263-f88c9728-ce9e-4e4e-b5b5-8ad43e48e837.png)
+
+Figure 5: Filter all parameters
 
 ## Summary:
 
@@ -60,6 +70,7 @@ The use of "clear filter" button is one area for further improvements. The clear
 
 The uses of drop-down options would solve the drawback identified above.
 
+------------------------------
 
 Javascript
 
